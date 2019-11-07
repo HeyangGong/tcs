@@ -1,5 +1,7 @@
 # Introduction to Theoretical Computer Science
 
+想要又一个中文翻译版本，但是不知道怎么配置书籍，想用Latex来解决这个问题。在 ShareLatex 上写一本这样的书籍吧。
+
 This is the git repository for a book in preparation for an introductory undergraduate course on computer science.
 The book is posted (in both html and pdf formats)  on the web page https://introtcs.org
 
